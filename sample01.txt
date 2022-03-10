@@ -1,3 +1,8 @@
 깃 사용법
 
 개발 브랜치에서 수정한 내용
+개발 브랜치에서 수정한 내용
+
+git remote add {별칭} {URL}
+
+git remote add origin http://git.dkdkdkd.k
